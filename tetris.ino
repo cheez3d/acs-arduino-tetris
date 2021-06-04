@@ -167,7 +167,7 @@ void setup() {
 
   isGameSetup = true;
 
-  delay(2000); // show splash screen TODO
+  delay(2000); // show splash screen
 
   lcd.clearDisplay();
 }
